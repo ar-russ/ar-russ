@@ -11,7 +11,7 @@
 <hr>
 
 ### Hard skills:
-Python ·  FastAPI · SQLAlchemy · Alembic · Django ORM · SQL · aiogram · arq · httpx
+Python ·  FastAPI · SQLAlchemy · Alembic · Django · SQL · aiogram · arq · httpx
 
 <!--
 **fireruss/fireruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
