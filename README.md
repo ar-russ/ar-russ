@@ -4,9 +4,9 @@
 
 - 🌖 I'm currently developing my skills in **Backend development**;
 - ☄️ You can reach me either on [Mail](mailto:arseny.loshakov@yandex.com) or [LinkedIn](https://www.linkedin.com/in/arseny-loshakov/);
-- ☀️ You can find my CV here: _Work in progress :)_
-- 🌍 My personal projects:
-- - _Work in progress :)_
+- ☀️ [My CV](https://drive.google.com/file/d/175DtQDPqGS1bXLBXae3djN18TIno0eEA/view?usp=sharing)
+- 🌍 My recent projects:
+- - [Tripster Test Task](https://github.com/ar-russ/tripster-test)
 
 <hr>
 
