@@ -3,8 +3,7 @@
 ### ⚙️ Backend Python Developer
 
 - 🌖 I'm currently developing my skills in **Backend development**;
-- ☄️ You can reach me either on [Mail](mailto:arseny.loshakov@yandex.com) or [LinkedIn](https://www.linkedin.com/in/arseny-loshakov/);
-- ☀️ [My CV](https://drive.google.com/file/d/175DtQDPqGS1bXLBXae3djN18TIno0eEA/view?usp=sharing)
+- ☄️ You can reach me on [Mail](mailto:arseny.loshakov@yandex.com);
 - 🌍 My recent projects:
 - - [Tripster Test Task](https://github.com/ar-russ/tripster-test)
 
