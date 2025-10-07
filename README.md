@@ -1,8 +1,7 @@
 # 👋 Hi! I'm Arseny ;)
 
-I'm Python Backend Developer with expertise in developing REST API services with FastAPI.
-
-I'm constantly developing my skills in backend development with Python. I enjoy learning new things and maintaining existing ones, and I'm not afraid of change or complex challenges. :)
+I'm Backend Python Developer with 2+ years of experience working on commercial and internal products using FastAPI.  
+I'm skilled in designing, developing and optimizing scalable backend services.  
 
 # My stack
 - Python, FastAPI, aiogram, SQLAlchemy, Alembic
